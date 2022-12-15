@@ -8,3 +8,6 @@ public class Toyota extends Car {
         System.out.println(brand+" "+model+" is reliable");
     }
 }
+/*
+i changed the brand to the "toyota"
+ */
