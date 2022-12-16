@@ -16,10 +16,9 @@ public class Square extends Shapes{
    }
 
    public Square(double side) {
-      super("Square" +
-              "" +
-              "");
-      this.side = side;
+      super("Square");
+
+      setSide(side);
    }
 
    @Override
